@@ -2,6 +2,9 @@
 
 **Lock away your own Screen Time passcode – behind real math and real time.**
 
+<p align="center"><img src="docs/demo.gif" alt="Zeitschloss demo: instructions, 3-2-1, the code for a few seconds, memory wipe, duration menu, countdown with roasts" width="600"></p>
+<p align="center"><sub>Demo sped up: the real code shows for 15 seconds and the lock lasts as long as you choose.</sub></p>
+
 You know the problem: you set an app limit, and two seconds later you tap *Ignore Limit*.
 Zeitschloss ("time lock" in German) generates a passcode you never get to keep. To see it again, your
 computer has to grind through billions of calculations that **can't be skipped, sped up much, or done in parallel**.
